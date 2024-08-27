@@ -52,7 +52,7 @@ Watch this short video to learn how to manage quarantined messages as an admin.
 
 - You need to be assigned permissions before you can do the procedures in this article. You have the following options:
   - [Exchange Online RBAC](/exchange/permissions-exo/permissions-exo):
-    - _Take action on quarantined messages for all users_: Membership in the **Organization Management**, **Security Administrator**, or **Quarantine Administrator** role groups.
+    - _Take action on quarantined messages for all users_: Membership in the **Organization Management**, or **Security Administrator**, or **Hygiene Management** role groups.
     - _Submit messages from quarantine to Microsoft_:  Membership in the **Security Administrator** role group.
     - _Read-only access to quarantined messages for all users_: Membership in the **Global Reader**, **Security Reader**, or **View-Only Organization Management** role groups.
   - [Email & collaboration RBAC in the Microsoft 365 Defender portal](mdo-portal-permissions.md): Membership in the **Quarantine Administrator** role group. To do quarantine procedures in Exchange Online PowerShell, you also need membership in the **Hygiene Management** role group in Exchange Online RBAC.
